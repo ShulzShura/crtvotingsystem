@@ -39,3 +39,11 @@ crtvotingsystem/
 ├── print_results.php      # Printable results
 ├── schedule.php           # Voting schedule
 └── README.md              # This file
+
+
+## 🗄️ Database Setup
+
+1. Open **phpMyAdmin**
+2. Create a database named `crtvotingsystem`
+3. Go to the **Import** tab
+4. Upload and import: `database/crtvotingsystem.sql`
